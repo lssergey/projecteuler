@@ -1,8 +1,9 @@
 """
-Solution for the 5th problem of ProjectEuler
+Решение 5-й задачи.
 http://projecteuler.net/problem=5
 
-Use Python 3, feel da power!
+http://en.wikipedia.org/wiki/Least_common_multiple
+См. Finding least common multiples by prime factorization.
 """
 
 from collections import Counter
